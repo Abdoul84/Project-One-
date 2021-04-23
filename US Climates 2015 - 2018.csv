@@ -26,7 +26,7 @@ Minnesota,D,C,
 Mississippi,C,,
 Missouri,C,,
 Montana,B,D,C
-Nebraska*,C,B,D
+Nebraska,C,B,D
 Nevada,B,D,
 NewHampshire,D,C,
 NewJersey,C,D,
@@ -41,10 +41,10 @@ Pennsylvania,D,C,
 RhodeIsland,D,C,
 SouthCarolina,C,,
 SouthDakota,C,B,D
-Tennessee*,C,D,
+Tennessee,C,D,
 Texas,C,B,
 Utah,B,D,C
-Vermont\,D,,
+Vermont,D,,
 Virginia,C,D,
 Washington,D,B,C
 WestVirginia,C,D,
