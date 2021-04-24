@@ -1,18 +1,15 @@
-Year,weather_main,count of hours
-2015,Clear,1553
-2015,Clouds,6215
-2015,Rain,992
-2016,Clear,1511
-2016,Clouds,6074
-2016,Rain,1199
-2017,Clear,4340
-2017,Clouds,3837
-2017,Rain,583
-2018,Clear,5554
-2018,Clouds,2826
-2018,Drizzle,14
-2018,Fog,18
-2018,Haze,2
-2018,Mist,36
-2018,Rain,307
-2018,Thunderstorm,3
+,Year,Weather Condition,Days
+0,2015,Clear,64.7
+1,2015,Clouds,259.0
+2,2015,Rain,41.3
+3,2016,Clear,63.0
+4,2016,Clouds,253.1
+5,2016,Rain,50.0
+6,2017,Clear,180.8
+7,2017,Clouds,159.9
+8,2017,Rain,24.3
+9,2018,Clear,231.4
+10,2018,Clouds,117.8
+11,2018,Fog/Mist,2.2
+12,2018,Rain,13.5
+13,2018,Smoke/Haze,0.1
